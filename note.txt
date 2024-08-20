@@ -1,0 +1,157 @@
+java script
+------------
+
+high level programming langauage
+node - compiler of js
+
+method / functions - are used to do specific task in programming
+
+fuctions - ()
+methods - . ()
+
+consol.log() inbuit methods in js to display data
+
+user defined - user created functions / methods for doing any task
+inbuilt - already created fuctions / methods in js
+
+
+Data types in js
+----------------
+
+numerical
+---------
+int - -1 0 1
+float - 0.1 1.0 3.1
+
+1 - Number
+
+- BigInt max length of number is 15 127493672047839n
+
+non-numerical
+-------------
+
+2 - String 'hi' "hello world" "A"
+
+3 - Boolean true(1) / false(0)
+
+4 - Null - empty data
+
+5 - Undefined - not defined yet
+
+Variables or Identifiers
+--------- -------------
+
+variables are used to store data temporarly in a progrmamming file
+
+num1=1234
+
+int num - strictly typed lamguage eg- c, c++, ts
+num-12
+
+num="Hello"
+num=12 -dynamically typed language eg- js, python
++
+variable naming rules
+---------------------
+my variable=9
+
+my_variable=9 - snake notation
+myVariable=9 - camel notation
+
+
+
+2myVariable=7
+
+
+a2=7
+a123=7
+_3=7
+
+
+myVar+iable=67
+
+variable declaration
+--------------------
+
+declaration varaibleName=data
+default = var
+
+1 - var (varying)
+var number=10
+num=23
+
+2 - let
+block {
+let var1=10
+}
+
+3 - const (constant dont change)
+
+const num=9
+
+
+
+
+features of js
+--------------
+
+-high level programming language
+- combiled language
+- dynamically typed
+- case sensitive
+
+
+display
+-------
+
+1 - ,
+2 - +
+3 - `${}`
+
+operators in js
+---------------
+
+1- arithmatic operators + - * / % **
+2- Relational operators < > >= <= == === !=
+3- assignment operators =
+4- compound assignment operators or (short hand operator) += -= *= **= %= /=
+5- Increment Decrement operators ++ --
+6- Logical operators and- && or- || not- !
+
+flow of controls
+----------------
+decision making - conditional statement - if , if else , if else if else
+
+looping - create loops in set of code - for , while
+
+switching - to control loops - break , continue .
+
+
+
+
+
+
+
+---------------------------------------------------
+
+
+ARRAY
+
+to store collection of data
+
+
+
+oops 
+
+-------------------------------------
+
+object oriented programming
+
+procedural - prgrmng using functions
+oop - prgrmng usng methods and classes
+
+class- design pattern/blue print
+
+object - real world entity          
+
+reference - used to store object
